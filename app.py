@@ -62,7 +62,7 @@ if st.button("🚀 Generate Dashboard"):
 
     st.progress(int(average))
 
-    st.info(feedback)S
+    st.info(feedback)
 
     # --- CHART ---
     st.subheader("📈 Marks Breakdown")
